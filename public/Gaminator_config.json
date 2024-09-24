@@ -1,0 +1,16 @@
+{
+
+"port":"6969",
+
+"host":"ewaa.bet",
+"prefix":"https://",
+
+"host_ws":"ewaa.bet",
+"prefix_ws":"wss://",
+
+"ssl":true,
+
+"privateKey":"jackpotmatic.com_le1.key",
+"certificate":"jackpotmatic.com_le1.crt"
+
+}

@@ -1,0 +1,14 @@
+{
+
+"port":"22053/fish",
+
+"host":"ewaa.bet",
+"prefix":"https://",
+
+"host_ws":"ewaa.bet",
+"prefix_ws":"wss://",
+
+"ssl":true,
+"timezone":"Europe/Berlin"
+
+}
